@@ -1,11 +1,11 @@
 ### Hi there 👋 Welcome to Apollo's World!
 - 🚀 console.log("since you're here you might as well follow") Welcome! 🚀🚀
   
-- 🌱 I’m currently learning **React Native,Solidity and Leo**
+- 🌱 I’m currently learning **Solidity,Leo and The EVM**
 
 - 🔭 I’m currently working on ... **YOU** LOL  😄 
 
-- 💬 Ask me about **HTML,CSS and Javascript**
+- 💬 Ask me about **Ethereum**
 
 - 📫 How to reach me **apolloelephen@gmail.com**
 
